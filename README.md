@@ -1,9 +1,8 @@
 # Bang Bang bot
 
 Bang Bang bot is an autoclicker designed to play the first person shooter flash game, Bloody Day, in Chrome.  The bot
-takes over the role of the player with shooting accuracy as good as, or better than, a mere mortal.  The name of the bot comes from it's
-filename on my dad's computer when I was a kid.  And quite personally, I'd like to know when exactly it stopped being Bang Bang and
-magically became Bloody Day but whatever man, it's called bang bang bot now.
+takes over the role of the player with shooting accuracy as good as, or better than, a mere mortal.  The name of the bot comes from the game's filename on my dad's computer when I was a kid.  And quite personally, I'd like to know when exactly it stopped being Bang Bang and
+magically became Bloody Day but whatever man, it's called Bang Bang bot now.
 
 ### Prerequisites
 
