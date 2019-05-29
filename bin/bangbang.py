@@ -2,7 +2,6 @@
 Works best in full screen at 100% zoom in chrome.'''
 
 import pyautogui
-from pathlib import Path
 
 while True:
 
@@ -12,8 +11,8 @@ while True:
 
     # Target detection logic
     im = pyautogui.screenshot(region=(200, 400, 800, 350))
-    target = pyautogui.locate('right.png', im, grayscale=False, confidence = 0.4)
-    target2 = pyautogui.locate('left.png', im, grayscale=False, confidence = 0.4)
+    target = pyautogui.locate('assets/right.png', im, grayscale=False, confidence = 0.5)
+    target2 = pyautogui.locate('assets/left.png', im, grayscale=False, confidence = 0.5)
 
     # Two if blocks are used to determine the direction the target is movement
     # Right moving target handler
