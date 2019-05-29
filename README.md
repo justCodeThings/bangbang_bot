@@ -12,7 +12,7 @@
 
 ###Author
 
-- Kelsey Williams
+- Kelsey T Williams
 
 ###License
 
